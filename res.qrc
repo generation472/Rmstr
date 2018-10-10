@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/settings.png</file>
+        <file>img/settings-1.png</file>
+        <file>img/browser.png</file>
+        <file>img/invoice.png</file>
+        <file>img/server.png</file>
+        <file>img/wrench.png</file>
+        <file>img/exit.png</file>
+        <file>img/Load.gif</file>
+        <file>img/about.png</file>
+    </qresource>
+</RCC>
